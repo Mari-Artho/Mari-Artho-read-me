@@ -1,8 +1,8 @@
-👋 Hi, I’m @Mari-Artho.
+👋 Hi, I’m @Mari-Artho, I'm Japanese and moved to Sweden a few years ago.
 
-👀 I’m interested in web development.
+👀 I’m interested in web development. 
 
-🌱 I’m currently studing web development at Medieinstitutet.
+🌱 Currently, I’m studying web development at Medieinstitutet in Sweden.
 
 <!--- 💞️ I’m looking to collaborate on ... --->
 
