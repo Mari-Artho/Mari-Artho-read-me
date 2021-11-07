@@ -2,7 +2,7 @@
 
 👀 I’m interested in web development.
 
-🌱 I’m currently studing web developning at Medieinstitutet.
+🌱 I’m currently studing web development at Medieinstitutet.
 
 <!--- 💞️ I’m looking to collaborate on ... --->
 
